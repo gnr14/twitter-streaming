@@ -15,6 +15,7 @@ Proper backoffs/retry schemes etc.
 - Java 8
 - Maven
 - Kafka
+- MongoDB
 
 ### Initital Instructions:
 Clone below repositories and install all dependencies.
